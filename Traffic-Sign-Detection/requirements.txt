@@ -59,7 +59,7 @@ networkx==2.5
 notebook==6.4.12
 numba==0.52.0
 numpy==1.22.0
-oauthlib==3.1.0
+oauthlib==4.0.0
 opencv-python==4.5.1.48
 opt-einsum==3.3.0
 packaging==20.8
